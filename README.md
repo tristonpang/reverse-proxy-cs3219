@@ -1,6 +1,5 @@
 # CS3219 OTOT Assignment Task A
 ## Name: Triston Pang Erh Syen
-## Matric No.: <censored for public repo>
 
 ## How to run the Docker container
 1. Fork and pull the repository into your local machine
